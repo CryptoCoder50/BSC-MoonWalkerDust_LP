@@ -1,5 +1,5 @@
 # MoonWalkerDust_LP
 
-This token provide liquidity on MoonWalkerSwap {DUST} Staking Token.
-https://moonwalker.network 
+This token provide's liquidity on MoonWalkerSwap {DUST} Staking Token.
+https://home.moonwalker.network 
 
